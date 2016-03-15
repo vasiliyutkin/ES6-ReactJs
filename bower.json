@@ -1,0 +1,21 @@
+{
+  "name": "MyProject",
+  "description": "React JS application",
+  "main": "app.js",
+  "authors": [
+    "Andrew Blinoff"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "gulp",
+    "react",
+    "browserify",
+    "ES6",
+    "babel"
+  ],
+  "homepage": "https://github.com/Granze/react-starterify",
+  "moduleType": [],
+  "dependencies": {
+    "jquery": "^2.2.0"
+  }
+}
